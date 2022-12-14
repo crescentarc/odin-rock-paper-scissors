@@ -10,3 +10,6 @@ I have now finished this project and I was quite surprised to see how many skill
 In addition, the while loops that I similarly read about previously, I found very useful in this project. Here, they were essential in cancelling any player inputs that weren't the three game choices and making the prompt reappear until 'rock', 'paper' or 'scissors' was chosen. 
 
 Lastly, I also got to make practical use of the Math.random function to have the computer make their choice, the increment operator (++) to help keep track of the scores, as well as && (and) and || (or) operators to indicate multiple conditions in an if statement. These all seem to be the fundamentals of JavaScript and I hope to get better at using them going forward. 
+
+Dec. 13 Update:
+From this date, I am beginning an update to the Rock Paper Scissors game I created. Previously, I came up with a Rock Paper Scissors game that mainly utilizes the browser console to display the scores and results. Now, with the knowledge I've gained so far, I will modify the game so that it's shown and playable through a GUI (Graphical User Interface) on the page. I'm doing this on a branch of this repo, the first time I've created one. Once the modified version is complete, I will merge the branch with the main one. 
