@@ -13,3 +13,6 @@ Lastly, I also got to make practical use of the Math.random function to have the
 
 Dec. 13 Update:
 From this date, I am beginning an update to the Rock Paper Scissors game I created. Previously, I came up with a Rock Paper Scissors game that mainly utilizes the browser console to display the scores and results. Now, with the knowledge I've gained so far, I will modify the game so that it's shown and playable through a GUI (Graphical User Interface) on the page. I'm doing this on a branch of this repo, the first time I've created one. Once the modified version is complete, I will merge the branch with the main one. 
+
+Dec. 16 Update: 
+I have completed the GUI update to my Rock Paper Scissors game. Surprisingly, I even did a little review into CSS and Flexbox in trying to organize the layout of the page. I ended up learning a decent number of new things about JavaScript on the way there. Things such as the ability to disable buttons, a function that can be used to refresh the page which was useful for restarting games and situations besides loops where increment/decrement is useful. After this project, I feel more comfortable with how event listeners work and how to add new HTML elements via JavaScript. I look forward to seeing how else I can use those skills in my next projects.
